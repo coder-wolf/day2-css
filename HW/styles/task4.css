@@ -1,0 +1,39 @@
+h3 {
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: 900;
+    padding-right: 10%;
+    padding-top: 2%;
+    margin-left: 50%;
+    padding-bottom: 2%;
+    border-radius: 10px;
+    position: fixed;
+    /* background: red; */
+}
+
+body {
+    background-image: url(https://parade.com/.image/t_share/MTkwNTgxMTA1NjY0NDAyNTU3/funny-pictures.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom ;
+}
+
+div {
+    padding: 2% 4%;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 1px;
+}
+
+.highlight-green {
+    background-color: greenyellow;
+    padding: 1px;
+}
+
+#intro {
+    padding-top: 12%;
+    font-style: italic;
+}

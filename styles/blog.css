@@ -1,0 +1,14 @@
+h3 {
+    font-size: 30px;
+    text-decoration: overline;
+}
+
+.second {
+    /* display: none; */
+    visibility: hidden;
+}
+
+.header {
+    height: 200px;
+    background-image: url(https://th.bing.com/th/id/OIG.ey_KYrwhZnirAkSgDhmg);
+}

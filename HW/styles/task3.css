@@ -1,0 +1,26 @@
+h3 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+* {
+    /* font-family: ; */
+    color: rgb(4, 8, 28);
+}
+
+#site {
+    padding: 10%;
+}
+
+#intro {
+    font-style: italic;
+    font-size: 20px;
+}
+
+
+.content {
+    font-family: cursive;
+    padding: 2px 6%;
+}
+
